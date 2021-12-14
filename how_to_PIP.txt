@@ -1,0 +1,3 @@
+pip install -e git://github.com/{ username }/{ reponame }.git@{ tag name }#egg={ desired egg name }
+
+pip install "git+ssh://git@github.com/your_repo.git@your_branch_name"
