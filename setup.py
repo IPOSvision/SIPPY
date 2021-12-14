@@ -16,9 +16,6 @@ setuptools.setup(
 	install_requires=(
 		"numpy",
 		"scipy",
-		"control",
-		"slycot",
-		"future",
 		"casadi"),
 	classifiers=(
 		"Development Status :: 4 - Beta",
@@ -29,6 +26,7 @@ setuptools.setup(
 		"Programming Language :: Python :: 3.5",
 		"Programming Language :: Python :: 3.6",
         "Programming Language :: Python :: 3.7",
+        "Programming Language :: Python :: 3.8",
 		"Operating System :: OS Independent",
 	),
 )
